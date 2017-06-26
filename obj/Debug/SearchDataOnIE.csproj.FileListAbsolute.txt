@@ -1,0 +1,21 @@
+F:\VS\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.exe.config
+F:\VS\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.exe
+F:\VS\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.pdb
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.Form1.resources
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.Properties.Resources.resources
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.UCVerExpander.resources
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.UCWebEx.resources
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.csproj.GenerateResource.Cache
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.exe
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.pdb
+F:\VS\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.csprojResolveAssemblyReference.cache
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.exe.config
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.exe
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.pdb
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.exe
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\bin\Debug\SearchDataOnIE.pdb
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.Form1.resources
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.Properties.Resources.resources
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.UCVerExpander.resources
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.UCWebEx.resources
+C:\Users\ELMO\Documents\Visual Studio 2013\Projects\SearchDataOnIE\SearchDataOnIE\obj\Debug\SearchDataOnIE.csproj.GenerateResource.Cache
